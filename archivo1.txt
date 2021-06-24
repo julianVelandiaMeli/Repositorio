@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 Cotenido Archivo 1
 
 Cambios de Julián
 Cambios de Julián
 Cambios de Julián
-=======
-Cotenido Archivo 1 Gonzalo
->>>>>>> bb6ffdc1acc624892b5ccdc6a99277b74e61bb09
